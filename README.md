@@ -19,3 +19,5 @@ cms content = block file content:
 <h1>hello!</h1>
 [{$smarty.block.parent}]
 ````
+
+# clear tmp after changes on cms pages!
